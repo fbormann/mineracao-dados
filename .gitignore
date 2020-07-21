@@ -1,3 +1,4 @@
 secrets/*
 .ipynb_checkpoints/
 models/*
+twitter_data/word_vector.csv
