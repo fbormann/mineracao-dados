@@ -78,3 +78,5 @@ wcwidth==0.2.4
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 sense2vec
+scikit-learn
+graphviz
