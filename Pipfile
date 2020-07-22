@@ -10,6 +10,8 @@ python-twitter = "*"
 jupyter = "*"
 pandas = "*"
 jupyter-contrib-nbextensions = "*"
+nltk = "*"
+spacy = "*"
 
 [requires]
 python_version = "3.8"
