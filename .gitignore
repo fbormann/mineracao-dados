@@ -2,3 +2,4 @@ secrets/*
 .ipynb_checkpoints/
 models/*
 twitter_data/word_vector.csv
+twitter_data/word_vector_tf_id.csv
