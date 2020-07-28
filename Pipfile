@@ -12,6 +12,10 @@ pandas = "*"
 jupyter-contrib-nbextensions = "*"
 nltk = "*"
 spacy = "*"
+seaborn = "*"
+gensim = "*"
+graphviz = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.8"
